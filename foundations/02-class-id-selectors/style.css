@@ -2,3 +2,15 @@
     background-color: rgb(243, 161, 161);
     font-family: "Verdana","DejaVu Sans",sans-serif;
 }
+#two {
+    color: rgb(29, 5, 253);
+    font-size: 36px;
+}
+.odd#cool {
+    font-size: 24px;
+}
+#bold {
+    background-color: rgb(100, 223, 100);
+    font-size: 24px;
+    font-weight: bold;
+}
