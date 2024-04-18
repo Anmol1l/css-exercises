@@ -11,17 +11,48 @@ body {
 
 .title {
   background: #e3f4ff;
+  border: 10px solid #fff;
+  margin: 0px;
+  padding-left: 8px;
+
 }
 
 .content {
   background: #e3f4ff;
+  border: 10px solid #fff;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  
+  
 }
 
 .button-container {
+  /* display: block; */
   background: #e3f4ff;
+  text-align: center;
+  border: 10px solid #fff;
+  padding: 8px;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.btn {
+  display: block;
+  margin: auto;
+
+}
+
+
+.content,
+.button-container{
+  border-top: 0px;
 }
